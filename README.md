@@ -26,6 +26,6 @@ This Repository is for my plan of writing at least one new Powershell script a d
 
     a. I wanted to create a fun little mapped drive add or remove script.
 
-    b. This script actually is function it will add a SMB 3.0 mapped drive or better yet destroy it...lol.
+    b. This script actually is functional and it will add a SMB 3.0 mapped drive or better yet destroy it...lol.
 
     c. The caveat on this is I only know that it works with Powershellv4 and up and I do not think it will work with Powershellv3 and below.
