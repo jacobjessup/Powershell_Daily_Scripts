@@ -1,5 +1,4 @@
-# This script allows you to add a mapped SMB 3.0 drive or local folder
-# in Powershell v4 and up.
+# This script allows you to add a mapped SMB 3.0 drive in Powershell v4 and up.
 # It will ask you what dirve letter and the path to the SMB dicrectory.
 # It will also ask you if you want to delete a mapped drive if the user
 # says they do not want to add a mapped drive.
