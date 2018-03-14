@@ -1,9 +1,9 @@
 # Powershell_Daily_Scripts
 This Repository is for my plan of writing at least one new Powershell script a day.
 
-03/11/2018
+<h3>03/11/2018</h3>
 
-- check_Version_Func.ps1
+- <em>check_Version_Func.ps1</em>
 
   a. I wanted to write a script that would be more resilient for IT professionals where they probably
      are maintaining more than one version of Powershell.
@@ -15,16 +15,16 @@ This Repository is for my plan of writing at least one new Powershell script a d
 		1. IE = Powershell v1 script goes into powerVersion1 function.
 
 
-- template.ps1
+- <em>template.ps1</em>
 
   a. This is just a template to write modules to work with get-help cmdlet.
 
 
 
 
- 03/12/2018
+ <h3>03/12/2018</h3>
 
- - add_Map_Drive.ps1
+ - <em>add_Map_Drive.ps1</em>
 
     a. I wanted to create a fun little mapped drive add or remove script.
 
@@ -34,9 +34,9 @@ This Repository is for my plan of writing at least one new Powershell script a d
 
 
 
-03/13/2018
+<h3>03/13/2018</h3>
 
-- <b>find_Top_Process.ps1</b>
+- <em>find_Top_Process.ps1</em>
 
     a. This script will find the top 5 processes of a local or remote computer.
 
