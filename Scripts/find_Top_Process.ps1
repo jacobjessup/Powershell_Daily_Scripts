@@ -1,6 +1,5 @@
 # This script will find the top 5 processes of a local or remote computer.
-# Used as a quick inspection if multiple computers are running slow and
-# all of them are slowed by the same process/es.
+# Used as a quick inspection if a computer is running slow.
 # This script also allows for a Service status search on a local or remote
 # computer.
 
