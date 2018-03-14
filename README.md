@@ -3,7 +3,7 @@ This Repository is for my plan of writing at least one new Powershell script a d
 
 <h3>03/11/2018</h3>
 
-- <em>check_Version_Func.ps1</em>
+- <em><strong>check_Version_Func.ps1</strong></em>
 
   a. I wanted to write a script that would be more resilient for IT professionals where they probably
      are maintaining more than one version of Powershell.
@@ -15,7 +15,7 @@ This Repository is for my plan of writing at least one new Powershell script a d
 		1. IE = Powershell v1 script goes into powerVersion1 function.
 
 
-- <em>template.ps1</em>
+- <em><strong>template.ps1</strong></em>
 
   a. This is just a template to write modules to work with get-help cmdlet.
 
@@ -24,7 +24,7 @@ This Repository is for my plan of writing at least one new Powershell script a d
 
  <h3>03/12/2018</h3>
 
- - <em>add_Map_Drive.ps1</em>
+ - <em><strong>add_Map_Drive.ps1</strong></em>
 
     a. I wanted to create a fun little mapped drive add or remove script.
 
@@ -36,7 +36,7 @@ This Repository is for my plan of writing at least one new Powershell script a d
 
 <h3>03/13/2018</h3>
 
-- <em>find_Top_Process.ps1</em>
+- <em><strong>find_Top_Process.ps1</strong></em>
 
     a. This script will find the top 5 processes of a local or remote computer.
 
