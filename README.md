@@ -31,3 +31,15 @@ This Repository is for my plan of writing at least one new Powershell script a d
     b. This script actually is functional and it will add a SMB 3.0 mapped drive or better yet destroy it...lol.
 
     c. The caveat on this is I only know that it works with Powershellv4 and up and I do not think it will work with Powershellv3 and below.
+
+
+
+03/13/2018
+
+- find_Top_Process.ps1
+
+    a. This script will find the top 5 processes of a local or remote computer.
+
+    b. Used as a quick inspection if a computer is running slow.
+
+    c. This script also allows for a Service status search on a local or remote computer.
